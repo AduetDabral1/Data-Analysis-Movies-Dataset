@@ -45,13 +45,16 @@ This report delves into a movie dataset using various analytical techniques to i
 ## Visualization Summary
 Users can acquire insights into numerous aspects of movies using the Movie Dataset Dashboard in Power BI, which is created to provide a thorough study of a movie dataset. An overview of the various graphs and visualizations made for the dashboard:
 
-<strong>1. Distribution of Film Genres:</strong>
+### 1. Distribution of Film Genres:
    This graph shows how various film genres are distributed visually. Understanding the dataset's general genre mix and identifying the most popular genres are both beneficial.
-<strong>2. Top Revenue Generating Films:</strong>
+
+### 2. Top Revenue Generating Films:
    This graph lists the films that bring in the most money. It lists the movie names and their accompanying box office receipts. With the use of this visualization, it is possible to   determine which films have made the most money.
-<strong>3. Performance of the Director:</strong>
+   
+ ### 3. Performance of the Director:
    This graph examines the effectiveness of several directors. The names of the filmmakers how many films they have directed and how their films have performed can be visualized here. The most prolific directors in the dataset are easier to find thanks to this visualization.
-<strong>4. Movie Production by Country:</strong>
+   
+### 4. Movie Production by Country:
    This graph illustrates the production of films in various nations. It displays the film-producing nations. The countries with the highest levels of film production can be found using this visualization.
 
 <center>
